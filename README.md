@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-Test
+![example workflow](https://github.com/Omny/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)
